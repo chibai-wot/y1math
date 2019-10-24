@@ -13,7 +13,7 @@
 # (in percentage) and repayment period t (in years)
 # outputs: monthly instalments p (in SGD$), total amount M (in SGD$)
 # Eg Inputs: c = 800, d = 20, r = 5, t = 2.  
-# Outputs: p and M
+# Outputs: pp and M
 
 
 
